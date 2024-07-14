@@ -1,11 +1,3 @@
---Rakshit Gupta
---ID: CT_CSI_SQ_4156
-
-
-
-
-
-
 -- Create a new database
 CREATE DATABASE CollegeManagement;
 GO
